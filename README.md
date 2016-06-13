@@ -1,8 +1,11 @@
 # Attrition-analytics
 
 ## Synopsis
-	This is our project done, during Big Data and analytics program in S.P.Jain global Mumbai.Have done attrition analysis on sample 	data provided by IBM watson.
+	This is our project done, during Big Data and analytics program in S.P.Jain global Mumbai.
+	Have done attrition analysis on sample 	data provided by IBM watson.
 
+## Problem Statement
+	TODO
 	
 ## Motivation
 	Purpose of creating this repository is to maintain 
