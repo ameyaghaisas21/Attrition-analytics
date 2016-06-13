@@ -8,11 +8,10 @@
 	TODO
 	
 ## Motivation
-	Purpose of creating this repository is to maintain a central / common location for the research work/artifacts created.	
+	Purpose of creating this repository is to maintain a common location for the research work.	
 	
 	Contains multiple folders with defined purpose:
-	1. DomainReseach :contains domain specific research.references to the links refered, 
-		               documents created.
+	1. DomainReseach :contains domain specific research.references to the links refered.
 	2. AnalyticsReseach : Contains the details about the analytics work done in this fiels.
 	3. ExploratoryAnalysis : Contains Exproratory data analysis done on the data.
 	4. Code : All the code written for the analysis.
