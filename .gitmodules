@@ -1,0 +1,12 @@
+[submodule "ExploratoryAnalysis"]
+	path = ExploratoryAnalysis
+	url = https://github.com/urvikalia/Attrition-analytics.git
+[submodule "DomainResearch"]
+	path = DomainResearch
+	url = https://github.com/urvikalia/Attrition-analytics.git
+[submodule "AnalyticsResearch"]
+	path = AnalyticsResearch
+	url = https://github.com/urvikalia/Attrition-analytics.git
+[submodule "Code"]
+	path = Code
+	url = https://github.com/urvikalia/Attrition-analytics.git
