@@ -10,3 +10,6 @@
 [submodule "Code"]
 	path = Code
 	url = https://github.com/urvikalia/Attrition-analytics.git
+[submodule "References"]
+	path = References
+	url = https://github.com/urvikalia/Attrition-analytics.git
